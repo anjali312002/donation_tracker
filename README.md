@@ -1,8 +1,3 @@
-Here you go — FULL README content in one block for direct copy-paste:
-
----
-
-```
 # 🧾 Donation Tracker
 
 Donation Tracker is a simple Python application built using **SQLite3** and **Tkinter** for tracking donations made by individuals. It allows users to enter and store donor details and view stored donation records through a graphical interface.
@@ -119,6 +114,5 @@ GitHub: https://github.com/anjali312002
 Email: anjalisharma312002@gmail.com
 
 ---
-
 
 Just paste this into your `README.md` in VS Code 🙌
