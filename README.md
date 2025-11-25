@@ -114,5 +114,3 @@ GitHub: https://github.com/anjali312002
 Email: anjalisharma312002@gmail.com
 
 ---
-
-Just paste this into your `README.md` in VS Code 🙌
